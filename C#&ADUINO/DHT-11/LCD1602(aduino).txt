@@ -1,0 +1,28 @@
+/*
+ * 예제 189-1 아두이노 1602LCD를 I2C통신으로 사용할 수 있는 모듈을 연결했다!
+ * SDA를 A4에 연결하고 SCL을 A5에 연결했다!
+ * 원하는 text를 LCD화면에 띄워보자!
+ */
+
+#include <Wire.h> 
+#include <LiquidCrystal_I2C.h>
+
+                   //주소,//가로폭//라인갯수
+LiquidCrystal_I2C lcd(0x27,16,2);  // set the LCD address to 0x27 for a 16 chars and 2 line display
+
+void setup()
+{
+  lcd.init();                      // initialize the lcd 
+  // Print a message to the LCD.
+  lcd.backlight();
+  lcd.setCursor(0,0);
+  lcd.print("Hello, world!");
+  lcd.setCursor(0,1);
+  lcd.print("NOCKANDA!!");
+}
+
+
+void loop()
+{
+  //아무것도 안함
+}
