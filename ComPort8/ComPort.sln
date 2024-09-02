@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ComPort", "ComPort.csproj", "{611E6A48-41CB-47BE-9E48-8FD7BC2E07D1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{611E6A48-41CB-47BE-9E48-8FD7BC2E07D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{611E6A48-41CB-47BE-9E48-8FD7BC2E07D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{611E6A48-41CB-47BE-9E48-8FD7BC2E07D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{611E6A48-41CB-47BE-9E48-8FD7BC2E07D1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4A251B65-C1EF-4FDF-A235-C61446E83F55}
+	EndGlobalSection
+EndGlobal
