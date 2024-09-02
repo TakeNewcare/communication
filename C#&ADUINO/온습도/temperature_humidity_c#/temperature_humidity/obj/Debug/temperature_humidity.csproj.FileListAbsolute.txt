@@ -8,3 +8,13 @@ C:\Users\admin\Desktop\온습도\temperature_humidity\temperature_humidity\obj\D
 C:\Users\admin\Desktop\온습도\temperature_humidity\temperature_humidity\obj\Debug\temperature_humidity.csproj.CoreCompileInputs.cache
 C:\Users\admin\Desktop\온습도\temperature_humidity\temperature_humidity\obj\Debug\temperature_humidity.exe
 C:\Users\admin\Desktop\온습도\temperature_humidity\temperature_humidity\obj\Debug\temperature_humidity.pdb
+C:\Users\admin\Desktop\C#&ADUINO\온습도\temperature_humidity_c#\temperature_humidity\bin\Debug\temperature_humidity.exe.config
+C:\Users\admin\Desktop\C#&ADUINO\온습도\temperature_humidity_c#\temperature_humidity\bin\Debug\temperature_humidity.exe
+C:\Users\admin\Desktop\C#&ADUINO\온습도\temperature_humidity_c#\temperature_humidity\bin\Debug\temperature_humidity.pdb
+C:\Users\admin\Desktop\C#&ADUINO\온습도\temperature_humidity_c#\temperature_humidity\obj\Debug\temperature_humidity.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\C#&ADUINO\온습도\temperature_humidity_c#\temperature_humidity\obj\Debug\temperature_humidity.Form1.resources
+C:\Users\admin\Desktop\C#&ADUINO\온습도\temperature_humidity_c#\temperature_humidity\obj\Debug\temperature_humidity.Properties.Resources.resources
+C:\Users\admin\Desktop\C#&ADUINO\온습도\temperature_humidity_c#\temperature_humidity\obj\Debug\temperature_humidity.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\C#&ADUINO\온습도\temperature_humidity_c#\temperature_humidity\obj\Debug\temperature_humidity.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\C#&ADUINO\온습도\temperature_humidity_c#\temperature_humidity\obj\Debug\temperature_humidity.exe
+C:\Users\admin\Desktop\C#&ADUINO\온습도\temperature_humidity_c#\temperature_humidity\obj\Debug\temperature_humidity.pdb
